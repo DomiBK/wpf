@@ -1,4 +1,4 @@
-public class ElementRaportu
+ public class ElementRaportu
 {
     public string Nazwa { get; set; }
     public string Szczegoly { get; set; }
